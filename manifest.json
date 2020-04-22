@@ -1,0 +1,38 @@
+{
+  "name": "mMalaysia.Online",
+  "short_name": "MMALAYSIAONLINE",
+  "start_url": "https://www.mmalaysia.online/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#000",
+  "description": "Tips, tutorial, info, maklumat, hiburan, islamik, komputer serta gadget seperti TV, PS2, PS3. PS4, Laptop, Handphone, Android.",
+  "icons": [{
+    "src": "https://4.bp.blogspot.com/-woO368Y43TE/XdTDQbRzT-I/AAAAAAAAABY/fU4Nd4jbWFA_73Bos4LWEb4dVUlmRaxvQCLcBGAsYHQ/s48/KeKeCoH.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-woO368Y43TE/XdTDQbRzT-I/AAAAAAAAABY/fU4Nd4jbWFA_73Bos4LWEb4dVUlmRaxvQCLcBGAsYHQ/s72/KeKeCoH.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-woO368Y43TE/XdTDQbRzT-I/AAAAAAAAABY/fU4Nd4jbWFA_73Bos4LWEb4dVUlmRaxvQCLcBGAsYHQ/s96/KeKeCoH.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-woO368Y43TE/XdTDQbRzT-I/AAAAAAAAABY/fU4Nd4jbWFA_73Bos4LWEb4dVUlmRaxvQCLcBGAsYHQ/s144/KeKeCoH.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-woO368Y43TE/XdTDQbRzT-I/AAAAAAAAABY/fU4Nd4jbWFA_73Bos4LWEb4dVUlmRaxvQCLcBGAsYHQ/s168/KeKeCoH.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-woO368Y43TE/XdTDQbRzT-I/AAAAAAAAABY/fU4Nd4jbWFA_73Bos4LWEb4dVUlmRaxvQCLcBGAsYHQ/s192/KeKeCoH.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-woO368Y43TE/XdTDQbRzT-I/AAAAAAAAABY/fU4Nd4jbWFA_73Bos4LWEb4dVUlmRaxvQCLcBGAsYHQ/s512/KeKeCoH.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
